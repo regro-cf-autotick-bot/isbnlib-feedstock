@@ -16,11 +16,12 @@ build:
 
 requirements:
   host:
-    - python >=3.6
+    - python >=3.8
     - pip
     - poetry
   run:
-    - python >=3.6
+    - python >=3.8
+    - twine >=4.0.1
 
 test:
   imports:
