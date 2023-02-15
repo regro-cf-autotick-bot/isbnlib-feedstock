@@ -34,9 +34,8 @@ about:
   home: https://github.com/xlcnd/isbnlib
   summary: Extract, clean, transform, hyphenate and metadata for ISBNs (International Standard Book Number).
   license: LGPL-3.0-or-later
-  license_file: 
+  license_file:
     - LICENSE-LGPL-3.0.txt
-    - COPYRIGHT.txt
 
 extra:
   recipe-maintainers:
