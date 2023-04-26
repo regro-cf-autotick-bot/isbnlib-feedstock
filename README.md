@@ -1,11 +1,11 @@
-About isbnlib
-=============
+About isbnlib-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/isbnlib-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/xlcnd/isbnlib
 
 Package license: LGPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/isbnlib-feedstock/blob/main/LICENSE.txt)
 
 Summary: Extract, clean, transform, hyphenate and metadata for ISBNs (International Standard Book Number).
 
